@@ -38,7 +38,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-portfolio.git
+    git clone https://github.com/Atharva-C/your-portfolio.git
     ```
 
 2. Upload the files to your WordPress hosting server.
@@ -49,7 +49,7 @@ Make sure you have the following installed:
 
 Visit the live version of the portfolio at https://atharva141202.netlify.app/.
 
-Feel free to explore the different sections, and if you have any feedback or questions, don't hesitate to [contact me](mailto:your.email@example.com).
+Feel free to explore the different sections, and if you have any feedback or questions, don't hesitate to [contact me](mailto:atharvac729.com).
 
 ## Contributing
 
