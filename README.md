@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 ## Usage
 
-Visit the live version of the portfolio at [your-netlify-url](https://your-netlify-url).
+Visit the live version of the portfolio at https://atharva141202.netlify.app/.
 
 Feel free to explore the different sections, and if you have any feedback or questions, don't hesitate to [contact me](mailto:your.email@example.com).
 
