@@ -11,7 +11,6 @@ Welcome to my personal portfolio website! This site is built using WordPress wit
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
@@ -54,10 +53,6 @@ Feel free to explore the different sections, and if you have any feedback or que
 ## Contributing
 
 If you find any issues or have suggestions for improvement, please open an issue or submit a pull request. Contributions are welcome!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
